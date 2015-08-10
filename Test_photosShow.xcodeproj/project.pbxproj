@@ -416,6 +416,7 @@
 				ED518A1B1B706D8700463411 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ED518A1C1B706D8700463411 /* Build configuration list for PBXNativeTarget "Test_photosShowTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				ED518A1E1B706D8700463411 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
