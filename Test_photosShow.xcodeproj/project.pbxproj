@@ -14,6 +14,7 @@
 		ED518A071B706D8700463411 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED518A061B706D8700463411 /* Images.xcassets */; };
 		ED518A0A1B706D8700463411 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ED518A081B706D8700463411 /* LaunchScreen.xib */; };
 		ED518A161B706D8700463411 /* Test_photosShowTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED518A151B706D8700463411 /* Test_photosShowTests.m */; };
+		ED8E67C71B7889D20039551E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = ED8E67C61B7889D20039551E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		ED518A0F1B706D8700463411 /* Test_photosShowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test_photosShowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED518A141B706D8700463411 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED518A151B706D8700463411 /* Test_photosShowTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test_photosShowTests.m; sourceTree = "<group>"; };
+		ED8E67C61B7889D20039551E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		ED5189ED1B706D8700463411 = {
 			isa = PBXGroup;
 			children = (
+				ED8E67C61B7889D20039551E /* README.md */,
 				ED5189F81B706D8700463411 /* Test_photosShow */,
 				ED518A121B706D8700463411 /* Test_photosShowTests */,
 				ED5189F71B706D8700463411 /* Products */,
@@ -221,6 +224,7 @@
 			files = (
 				ED518A021B706D8700463411 /* ViewController.m in Sources */,
 				ED5189FF1B706D8700463411 /* AppDelegate.m in Sources */,
+				ED8E67C71B7889D20039551E /* README.md in Sources */,
 				ED5189FC1B706D8700463411 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

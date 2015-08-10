@@ -1,3 +1,4 @@
 # Test_photosShow
 
-第一次创建ReadMe.
+imagePicker的demo.图片来源是相机和相册.
+
